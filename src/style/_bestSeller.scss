@@ -1,0 +1,34 @@
+.bestSeller {
+	.wrapper {
+		position: relative;
+		min-width: 400px;
+		.bestSeller--box {
+			position: absolute;
+			top: 0px;
+			left: 0px;
+			height: 60px;
+			width: 60px;
+			background-color: salmon;
+			z-index: -1;
+		}
+		.bestSeller--title {
+			position: absolute;
+			top: 20px;
+			left: 45px;
+			font-size: 38px;
+		}
+	}
+	.bestSeller--navbar {
+		width: 100%;
+	}
+	.nav-link {
+		font-weight: bold;
+		&:hover {
+			color: salmon !important;
+			cursor: pointer;
+		}
+	}
+	.active {
+		color: salmon !important;
+	}
+}
