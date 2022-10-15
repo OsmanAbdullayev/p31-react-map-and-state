@@ -24,126 +24,157 @@ const data = [
         price: 350,
         variable: false,
         sale: false,
+        category: "Bed Room"
     },
     {
-        id: 1,
+        id: 2,
         image: img2,
-        title: "First Product",
+        title: "Second Product",
         price: 350,
         variable: false,
         sale: false,
+        category: "Office Room"
+
     },
     {
-        id: 1,
+        id: 3,
         image: img3,
-        title: "First Product",
+        title: "Third Product",
         price: 350,
         variable: false,
         sale: false,
+        category: "Mattress"
+        
+
     },
     {
-        id: 1,
+        id: 4,
         image: img4,
-        title: "First Product",
-        price: 350,
+        title: "Fourth Product",
+        price: 155,
         variable: false,
         sale: false,
+        category: "Office Room"
+
     },
     {
-        id: 1,
+        id: 5,
         image: img5,
-        title: "First Product",
-        price: 350,
+        title: "Fifth Product",
+        price: 48,
         variable: false,
         sale: false,
+        category: "Bed Room"
+
     },
     {
-        id: 1,
+        id: 6,
         image: img6,
-        title: "First Product",
-        price: 350,
+        title: "Sixth Product",
+        price: 147,
         variable: false,
         sale: false,
+        category: "Bed Room"
+
     },
     {
-        id: 1,
+        id: 7,
         image: img7,
-        title: "First Product",
-        price: 350,
+        title: "Sevenths Product",
+        price: 40,
         variable: false,
         sale: false,
+        category: "Office Room"
+
     },
     {
-        id: 1,
+        id: 8,
         image: img8,
-        title: "First Product",
-        price: 350,
+        title: "Eights Product",
+        price: 35,
         variable: false,
         sale: false,
+        category: "Mattress"
+
     },
     {
-        id: 1,
+        id: 9,
         image: img9,
-        title: "First Product",
-        price: 350,
+        title: "Nineth Product",
+        price: 150,
         variable: false,
         sale: false,
+        category: "Mattress"
+
     },
     {
-        id: 1,
+        id: 10,
         image: img10,
-        title: "First Product",
-        price: 350,
+        title: "Tenth Product",
+        price: 250,
         variable: false,
         sale: false,
+        category: "Office Room"
+
     },
     {
-        id: 1,
+        id: 11,
         image: img11,
-        title: "First Product",
-        price: 350,
+        title: "Eleventh Product",
+        price: 130,
         variable: false,
         sale: false,
+        category: "Bed Room"
+
     },
     {
-        id: 1,
+        id: 12,
         image: img12,
-        title: "First Product",
-        price: 350,
+        title: "Twelfth Product",
+        price: 184,
         variable: false,
         sale: false,
+        category: "Bed Room"
+
     },
     {
-        id: 1,
+        id: 13,
         image: img13,
-        title: "First Product",
-        price: 350,
+        title: "Thirteenth Product",
+        price: 80,
         variable: false,
         sale: false,
+        category: "Mattress"
+
     },
     {
-        id: 1,
+        id: 14,
         image: img14,
-        title: "First Product",
+        title: "Fourteenth Product",
         price: 350,
         variable: false,
         sale: false,
+        category: "Office Room"
+
     },
     {
-        id: 1,
+        id: 15,
         image: img15,
-        title: "First Product",
+        title: "Fifteenth Product",
         price: 350,
         variable: false,
         sale: false,
+        category: "Mattress"
     },
     {
-        id: 1,
+        id: 16,
         image: img16,
-        title: "First Product",
-        price: 350,
+        title: "Sixteenth Product",
+        price: 90,
         variable: false,
         sale: false,
+        category: "Mattress"
+
     },
    
    

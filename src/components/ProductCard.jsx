@@ -1,8 +1,12 @@
 import React, { Component } from "react";
+import data from "../data/data";
 
 
 export class ProductCard extends Component {
+	
+	
 	render() {
+		
 		return (
 			<div className="column col-6 col-lg-3">
 				<div className="productCard card border-0">
